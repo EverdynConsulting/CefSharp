@@ -3,7 +3,7 @@ using System;
 using System.Reflection;
 using System.Runtime.InteropServices;
 
-[assembly: AssemblyTitle("Code192 Dashboard Widget Instance")]
+[assembly: AssemblyTitle("code192 Dashboard Widget Instance")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyTrademark("")]
